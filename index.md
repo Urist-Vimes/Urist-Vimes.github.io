@@ -2,7 +2,6 @@
   <head>
   </head>
   <body>
-    <h1>Urist Vimes</h1>
-    <p>Under Construction</p>
+    <img src="Caution_tape.png" alt="Caution tape reading Under Construction" title="Caution: This area is a Hard Hat Zone">
   </body>
 </html>
